@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @LaodeGhazy<br>- 👀 I’m interested in Gaming and Learning Something New<br>- 🌱 I’m currently learning React.JS<br>- 📫 How to reach me Instagram : @gajih.ghazy
+- 👋 Hi, I’m @LaodeGhazy<br>- 👀 I’m interested Learning Something New<br>- 🌱 I’m currently learning React.JS<br>- 📫 How to reach me Instagram : @gajih.ghazy
 
 
 ## 🌐 Socials:
