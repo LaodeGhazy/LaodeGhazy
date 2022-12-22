@@ -18,6 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312iz2f33fmslgikjz43ebassygi&width={width})
+
 ---
 [![](https://visitcount.itsvg.in/api?id=LaodeGhazy&icon=2&color=6)](https://visitcount.itsvg.in)
 
